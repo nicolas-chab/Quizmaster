@@ -15,7 +15,7 @@ MonoBehaviour:
   question: What is the int number blablabla(test)
   answers:
   - int num = 12;
-  - int num = "12";
   - int num = 12;
-  - int num = "12";
-  correctanswersindex: 2
+  - int num = 12;
+  - int num = 12;
+  correctanswersindex: 1
