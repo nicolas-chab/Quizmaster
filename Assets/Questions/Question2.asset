@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b9f9875d8c49a14490bca08b10b1357, type: 3}
   m_Name: Question2
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: Quien juega con el numero 10 en el inter de miami
+  answers:
+  - Suarez
+  - De Paul
+  - Messi
+  - Busquets
+  correctanswersindex: 2
